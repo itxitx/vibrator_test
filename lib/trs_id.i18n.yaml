@@ -1,0 +1,68 @@
+main:
+  title: Stopwatch Uang
+  nostop: Tidak ada stopwatch tersimpan, silahkan menambahkan stopwatch dengan mengetuk tombol +
+  every: tiap
+  overtime: Overtime
+  ovstart: Overtime Mulai
+  second: detik
+  seconds: detik
+  minute: menit
+  minutes: menit
+  hour: jam
+  hours: jam
+  paused: Dijeda pada
+  ongoing: Berlangsung. Dimulai pada
+  stoppr: Berhenti. Catatan sebelumnya
+  stopped: Berhenti
+genset:
+  off: Matikan
+  alarm: Gunakan Alarm
+  notif: Gunakan Notifikasi
+  ring: Gunakan Nada Dering
+  once: Putar Sekali
+  s5: Putar 5 detik
+  s10: Putar 10 detik
+  s30: Putar 30 detik
+  m1: Putar 1 menit
+  genset: Pengaturan Umum
+  language: Language
+  dark: Selalu Gunakan Tema Gelap
+  fol: Ikuti/sesuai pengaturan di perangkat
+  light: Selalu Gunakan Tema Terang
+  onov: Ketika Masuk Overtime
+  play: Putar Suara
+  repeat: Ulangi Suara
+  vib: Getar
+halsetting:
+  stopset: Pengaturan Stopwatch
+  adstop: Tambahkan Stopwatch Baru
+  del: Hapus Stopwatch Ini
+  conf: Anda yakin?
+  dele: Hapus
+  no: Tidak
+  yes: Ya
+  enter: Masukkan Judul
+  second: Detik
+  minute: Menit
+  hour: Jam
+  cursim: Simbol mata uang
+  monval: Nilai uang
+  imov: Ada Overtime
+  ovstart: Waktu Masuk Overtime
+  min: Menit
+  sec: Detik
+  ovmonval: Nilai Uang Overtime
+  incmon: Kenaikan nilai uang tiap
+  errors: Kesalahan, masukkan waktu masuk overtime
+  errorn: Kesalahan, masukkan nilai lebih dari nol
+  save: Simpan
+stop:
+  startfrom: Mulai dari
+  prevrec: Catatan sebelumnya
+  started: Dimulai
+  paused: Dijeda
+  resumed: Dilanjutkan
+  resetbut: Reset Stopwatch
+  playbut: Mulai Stopwatch
+  pausebut: Jeda Stopwatch
+  lapbut: Buat putaran

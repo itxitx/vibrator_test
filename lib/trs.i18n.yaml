@@ -1,0 +1,68 @@
+main:
+  title: Money Stopwatch
+  nostop: No stopwatch saved, please add a stopwatch using + button
+  every: Every
+  overtime: Overtime
+  ovstart: Overtime Start
+  second: second
+  seconds: seconds
+  minute: minute
+  minutes: minutes
+  hour: hour
+  hours: hours
+  paused: Paused at
+  ongoing: Ongoing. Started at
+  stoppr: Stopped. Previous record
+  stopped: Stopped
+genset:
+  off: Off
+  alarm: Use Alarm
+  notif: Use Notification
+  ring: Use Ringtone
+  once: Play Once
+  s5: Play 5 seconds
+  s10: Play 10 seconds
+  s30: Play 30 seconds
+  m1: Play 1 minute
+  genset: General Setting
+  language: Language
+  dark: Always Use Dark Theme
+  fol: Follows system settings
+  light: Always Use Light Theme
+  onov: When Entering Overtime
+  play: Play sound
+  repeat: Repeat Sound
+  vib: Vibrate
+halsetting:
+  stopset: Stopwatch Settings
+  adstop: Add New Stopwatch
+  del: Delete This Stopwatch
+  conf: Are you sure?
+  dele: Delete
+  no: No
+  yes: Yes
+  enter: Enter the title
+  second: Second
+  minute: Minute
+  hour: Hour
+  cursim: Currency symbol
+  monval: Money value
+  imov: Implement Overtime
+  ovstart: Overtime Start Time
+  min: Min
+  sec: Sec
+  ovmonval: Overtime Money Value
+  incmon: Increment Money/Value Every
+  errors: Error, please enter overtime start time
+  errorn: Error, please enter non zero values
+  save: Save
+stop:
+  startfrom: Start from
+  prevrec: Previous record
+  started: Started
+  paused: Paused
+  resumed: Resumed
+  resetbut: Reset Stopwatch
+  playbut: Start Stopwatch
+  pausebut: Pause Stopwatch
+  lapbut: Make a Lap
